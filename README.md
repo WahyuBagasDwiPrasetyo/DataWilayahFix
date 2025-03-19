@@ -16,3 +16,5 @@ Feel free to check out my other repositories and projects!
 
 [LinkedIn](https://www.linkedin.com/in/wahyu123/)
 [Personal Website](https://wahyu123.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuBagasDwiPrasetyo&layout=compact&theme=radical)

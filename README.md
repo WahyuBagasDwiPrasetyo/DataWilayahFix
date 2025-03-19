@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuBagasDwiPrasetyo&show_icons=true&theme=radical)
+![WahyuBagasDwiPrasetyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuBagasDwiPrasetyo&show_icons=true&theme=radical)
 
 ## Languages and Tools
 - Node.js

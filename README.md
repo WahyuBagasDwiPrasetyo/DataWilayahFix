@@ -1,9 +1,8 @@
 # Hi, I'm Wahyu 👋
 
-Welcome to my GitHub profile! I’m a backend developer, currently working with Node.js, MySQL, and TypeScript.
-
+Welcome to my GitHub profile! 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuBagasDwiPrasetyo&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuBagasDwiPrasetyo&show_icons=true&theme=radical)
 
 ## Languages and Tools
 - Node.js
